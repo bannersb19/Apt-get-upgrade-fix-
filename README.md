@@ -6,3 +6,5 @@ Due to faulty source.list file in the kali linux directory, sudo apt-get upgrade
 
 ## After the fix
 ![image](https://github.com/bannersb19/Apt-get-upgrade-fix-/assets/86323992/fae865e8-1069-4560-9514-a23f74be39fc)
+
+Refer to fix.sh file for the fix.
